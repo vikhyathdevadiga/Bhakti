@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124172323739",
+    "project_id": "bhakti-16597",
+    "storage_bucket": "bhakti-16597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124172323739:android:4318eb3b9aa40552566f3e",
+        "android_client_info": {
+          "package_name": "com.vs.bhakti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjwelByOR0D1594zkdcD1sy0SomVhAmrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
